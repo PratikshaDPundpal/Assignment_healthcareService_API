@@ -1,12 +1,9 @@
-Healthcare Services API
+Healthcare Service API
 
-Description
-A simple Node.js API for managing healthcare services. The API supports CRUD operations to add, update, retrieve, and delete healthcare services.
+This project provides a simple API to manage healthcare services using Node.js, Express, and MongoDB.
 
-Requirements
-Node.js
-MongoDB
+Features
+Add, update, retrieve, and delete services.
+Uses MongoDB for data storage.
+Validate required fields such as service name and price before storing data.
 
-Setup
-1. Clone the repository.
-2. Navigate to the project directory:
